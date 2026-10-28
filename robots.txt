@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kitasumo.github.io/kitasumo01/sitemap.xml
